@@ -11,6 +11,8 @@ Feel free to play and test these games on my [GitHub Pages site](https://sitcomr
 - [Crayon Artillery](https://sitcomreality.github.io/crayon-artillery)
 - [Limb Reaper](https://sitcomreality.github.io/limb-reaper)
 - [Dungeon Map Cinema](https://sitcomreality.github.io/dungeon-map-cinema)
+- [Squishdrift](https://sitcomreality.github.io/squishdrift)
+- [Spell Fusion Arena](https://sitcomreality.github.io/spell-fusion-arena)
 
 ## About
 
