@@ -13,7 +13,7 @@ Feel free to play and test these games on my [GitHub Pages site](https://sitcomr
 - [Herd Scene](https://sitcomreality.github.io/herd-scene) (✅ Finished)
   - A crowd of tiny move into the shape of text or images
 - [Dungeon Map Cinema](https://sitcomreality.github.io/dungeon-map-cinema) (✅ Finished)
-  - (Use the map editor to create dungeons, and use the built-in timeline and keyframe controls to create a stunning cinematic video)
+  - Use the map editor to create dungeons, and use the built-in timeline and keyframe controls to create a stunning cinematic video
 - [Sonar Sorcerer](https://sitcomreality.github.io/sonar-sorcerer) (30% Finished)
   - You can only see where sounds impact. Fire your wand to echolocate the escape route
 - [Still A While Away](https://sitcomreality.github.io/still-a-while-away) (80% Finished)
@@ -30,6 +30,8 @@ Feel free to play and test these games on my [GitHub Pages site](https://sitcomr
   - One day this will be an awesome turn-based multiplayer game
 - [OctoPull (Octopus Grapple)](https://sitcomreality.github.io/octopus-grapple) (40% Finished)
   - Remember the ninja rope? Imagine that, but it's a tentacle from your fishbowl
+- [Automation Matrix](https://sitcomreality.github.io/automation-matrix/) (25% Finished)
+  - A logistics game with whimsical animated machines based on the old blue ball factory gifs.
 
 ## 🎮 Cool Games That Didn't Work Immediately After Uploading Them To GitHub, But That I'm Keeping Here To Remember To Fix So You Play Them:
 
