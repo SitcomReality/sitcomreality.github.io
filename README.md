@@ -2,36 +2,37 @@
 
 Welcome to my collection of web games, all playable directly in your browser!
 
-Feel free to play and test these games on my [GitHub Pages site](https://sitcomreality.github.io/). Each project is built as a small, fun experiment—I'm always working on more, so be sure to check back for updates!
+Feel free to play and test these games on my [GitHub Pages site](https://sitcomreality.github.io/) and see if I've explained anything on [SitcomReality.com](https://sitcomreality.com/). Each project is built as a small, fun experiment—I'm always working on more, so be sure to check back for updates!
 
-## 🎮 Playable Games
+## 🎮 Playable Games:
 
-- [Cosy Current](https://sitcomreality.github.io/cosy-current)
-- [Sonar Sorcerer](https://sitcomreality.github.io/sonar-sorcerer)
-- [Crayon Artillery](https://sitcomreality.github.io/crayon-artillery)
-- [Limb Reaper](https://sitcomreality.github.io/limb-reaper)
-- [Dungeon Map Cinema](https://sitcomreality.github.io/dungeon-map-cinema)
-- [Squishdrift](https://sitcomreality.github.io/squishdrift)
-- [Spell Fusion Arena](https://sitcomreality.github.io/spell-fusion-arena)
+- [Serpent](https://sitcomreality.github.io/serpent) *finished (Snake, but fancier and prettier, with a verlet chain)
+- [Spell Fusion Arena](https://sitcomreality.github.io/spell-fusion-arena) *finished (Collect & combine elements into spells to destroy swarming enemies)
+- [Herd Scene](https://sitcomreality.github.io/herd-scene) *finished (A crowd of tiny move into the shape of text or images)
+- [Dungeon Map Cinema](https://sitcomreality.github.io/dungeon-map-cinema) *finished (Use the map editor to create dungeons, and use the built-in timeline and keyframe controls to create a stunning cinematic video)
+- [Sonar Sorcerer](https://sitcomreality.github.io/sonar-sorcerer) *30% (You can only see where sounds impact. Fire your wand to echolocate the escape route)
+- [Still A While Away](https://sitcomreality.github.io/still-a-while-away) *80% (The nostalgic feeling of looking out the window on a long drive in some forgotten place)
+- [Slingapult Launch Cascade](https://sitcomreality.github.io/slingapult-launch-cascade) *60% (A chaotic roguelike launcher game with multiple upgrade-able stages)
+- [Leaf Drift](https://sitcomreality.github.io/leaf-drift) *95% (I just think caustics are beautiful)
+- [Generic Pixel Art Dungeon Crawler](https://sitcomreality.github.io/dungeon-crawler) *50% (Experimenting with a stat grid instead of the standard DnD-type stats)
+- [2D Scrolling Shooter](https://sitcomreality.github.io/2d-scrolling-shooter) *65% (A roguelike that's shaping up to be a lot of fun)
+- [F.A.L.E.S.C.](https://sitcomreality.github.io/falesc) *10% (One day this will be an awesome turn-based multiplayer game)
+- [OctoPull (Octopus Grapple)](https://sitcomreality.github.io/octopus-grapple) *40% (Remember the ninja rope? Imagine that, but it's a tentacle from your fishbowl)
+
+## 🎮 Cool Games That Didn't Work Immediately After Uploading Them To GitHub, But That I'm Keeping Here To Remember To Fix So You Play Them:
+
 - [Labyrinth of Dying Nightmare in the Supernal Interregnum](https://sitcomreality.github.io/labyrinth-of-dying-nightmare)
-- [Herd Scene](https://sitcomreality.github.io/herd-scene)
-- [Leaft Drift](https://sitcomreality.github.io/leaf-drift)
-- [Still A While Away](https://sitcomreality.github.io/still-a-while-away)
-- [Refactory Fluid Sim](https://github.com/SitcomReality/refactory-fluid-sim)
+- [Limb Reaper](https://sitcomreality.github.io/limb-reaper)
+- [Cosy Current](https://sitcomreality.github.io/cosy-current)
+- [Crayon Artillery](https://sitcomreality.github.io/crayon-artillery)
+- [Squishdrift](https://sitcomreality.github.io/squishdrift)
+- [Refactory Fluid Sim](https://sitcomreality.github.io/refactory-fluid-sim)
 - [Isometric City Builder Prototype](https://sitcomreality.github.io/isometric-city-builder-prototype)
-- [Folded Living - Diorama Spaces](folded-living-diorama-spaces)
-- [Serpent](https://sitcomreality.github.io/serpent)
-- [F.A.L.E.S.C.](https://sitcomreality.github.io/falesc)
-- [Slingapult Launch Cascade](https://sitcomreality.github.io/slingapult-launch-cascade)
-- [Generic Pixel Art Dungeon Crawler](https://sitcomreality.github.io/dungeon-crawler)
-- [2D Scrolling Shooter](https://sitcomreality.github.io/2d-scrolling-shooter)
+- [Folded Living - Diorama Spaces](https://sitcomreality.github.io/folded-living-diorama-spaces)
 - [ThunderSwarm](https://sitcomreality.github.io/thunderswarm)
 - [The Elephant in the Room](https://sitcomreality.github.io/the-elephant-in-the-room)
-- [OctoPull (Octopus Grapple)](https://sitcomreality.github.io/octopus-grapple)
 
 
 ## About
 
-All games here are made and maintained by [SitcomReality](https://github.com/SitcomReality). Most are prototypes or experiments—your feedback and bug reports are always welcome!
-
-Want to see the code or contribute? Check out the repositories for each project or drop me a message!
+All games here are made and maintained by [SitcomReality](https://github.com/SitcomReality). Most are prototypes or experiments in various states of incompletion—feedback and bug reports are always welcome!
