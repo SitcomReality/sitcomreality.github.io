@@ -32,6 +32,10 @@ Feel free to play and test these games on my [GitHub Pages site](https://sitcomr
   - Remember the ninja rope? Imagine that, but it's a tentacle from your fishbowl
 - [Automation Matrix](https://sitcomreality.github.io/automation-matrix/) (25% Finished)
   - A logistics game with whimsical animated machines based on the old blue ball factory gifs.
+- [Liquid Time](https://sitcomreality.github.io/liquid-time/) (55% Finished)
+  - A particle simulation sandbox intended to simulate vast long-term time ranges (it doesn't work great yet)
+- [Synchrony](https://sitcomreality.github.io/synchrony-y-c/) (20% Finished)
+  - Autochess-style deckbuilder
 
 ## 🎮 Cool Games That Didn't Work Immediately After Uploading Them To GitHub, But That I'm Keeping Here To Remember To Fix So You Play Them:
 
@@ -45,6 +49,9 @@ Feel free to play and test these games on my [GitHub Pages site](https://sitcomr
 - [Folded Living - Diorama Spaces](https://sitcomreality.github.io/folded-living-diorama-spaces)
 - [ThunderSwarm](https://sitcomreality.github.io/thunderswarm)
 - [The Elephant in the Room](https://sitcomreality.github.io/the-elephant-in-the-room)
+- [Heist Mastermind](https://sitcomreality.github.io/heist-mastermind/)
+- [Nomad Dawn](https://sitcomreality.github.io/nomad-dawn/)
+- [Blob Forge](https://sitcomreality.github.io/blob-forge/)
 
 
 ## About
