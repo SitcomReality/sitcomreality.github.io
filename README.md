@@ -13,6 +13,22 @@ Feel free to play and test these games on my [GitHub Pages site](https://sitcomr
 - [Dungeon Map Cinema](https://sitcomreality.github.io/dungeon-map-cinema)
 - [Squishdrift](https://sitcomreality.github.io/squishdrift)
 - [Spell Fusion Arena](https://sitcomreality.github.io/spell-fusion-arena)
+- [Labyrinth of Dying Nightmare in the Supernal Interregnum](https://sitcomreality.github.io/labyrinth-of-dying-nightmare)
+- [Herd Scene](https://sitcomreality.github.io/herd-scene)
+- [Leaft Drift](https://sitcomreality.github.io/leaf-drift)
+- [Still A While Away](https://sitcomreality.github.io/still-a-while-away)
+- [Refactory Fluid Sim](https://github.com/SitcomReality/refactory-fluid-sim)
+- [Isometric City Builder Prototype](https://sitcomreality.github.io/isometric-city-builder-prototype)
+- [Folded Living - Diorama Spaces](folded-living-diorama-spaces)
+- [Serpent](https://sitcomreality.github.io/serpent)
+- [F.A.L.E.S.C.](https://sitcomreality.github.io/falesc)
+- [Slingapult Launch Cascade](https://sitcomreality.github.io/slingapult-launch-cascade)
+- [Generic Pixel Art Dungeon Crawler](https://sitcomreality.github.io/dungeon-crawler)
+- [2D Scrolling Shooter](https://sitcomreality.github.io/2d-scrolling-shooter)
+- [ThunderSwarm](https://sitcomreality.github.io/thunderswarm)
+- [The Elephant in the Room](https://sitcomreality.github.io/the-elephant-in-the-room)
+- [OctoPull (Octopus Grapple)](https://sitcomreality.github.io/octopus-grapple)
+
 
 ## About
 
