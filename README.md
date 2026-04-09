@@ -36,13 +36,16 @@ Feel free to play and test these games on my [GitHub Pages site](https://sitcomr
   - A particle simulation sandbox intended to simulate vast long-term time ranges (it doesn't work great yet)
 - [Synchrony](https://sitcomreality.github.io/synchrony-y-c/) (20% Finished)
   - Autochess-style deckbuilder
+- [Limb Reaper](https://sitcomreality.github.io/limb-reaper)
+  - Roguelike swarm arena battler with roguelike upgrades
+- [Cosy Current](https://sitcomreality.github.io/cosy-current)
+  - A serene idle game about a raft floating in an infinite river in a stylized world
+- [Crayon Artillery](https://sitcomreality.github.io/crayon-artillery)
+  - 2 player hot seat artillery tank battles with a cute stylized aesthetic and roguelike upgrades
 
-## 🎮 Cool Games That Didn't Work Immediately After Uploading Them To GitHub, But That I'm Keeping Here To Remember To Fix So You Play Them:
+## 🎮 Cool Games That I Need To Make Work On GitHub Pages:
 
 - [Labyrinth of Dying Nightmare in the Supernal Interregnum](https://sitcomreality.github.io/labyrinth-of-dying-nightmare)
-- [Limb Reaper](https://sitcomreality.github.io/limb-reaper)
-- [Cosy Current](https://sitcomreality.github.io/cosy-current)
-- [Crayon Artillery](https://sitcomreality.github.io/crayon-artillery)
 - [Squishdrift](https://sitcomreality.github.io/squishdrift)
 - [Refactory Fluid Sim](https://sitcomreality.github.io/refactory-fluid-sim)
 - [Isometric City Builder Prototype](https://sitcomreality.github.io/isometric-city-builder-prototype)
